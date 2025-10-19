@@ -61,3 +61,5 @@ Tuliskan Fokus Bidang Skripsi Anda.
 Pilih Model Gemini yang ingin digunakan.
 
 Klik tombol "Simpan Konfigurasi" untuk memulai.
+
+try now : https://leia-cerated-accidentally.ngrok-free.dev/
