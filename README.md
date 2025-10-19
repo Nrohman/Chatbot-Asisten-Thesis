@@ -62,4 +62,4 @@ Pilih Model Gemini yang ingin digunakan.
 
 Klik tombol "Simpan Konfigurasi" untuk memulai.
 
-try now : https://leia-cerated-accidentally.ngrok-free.dev/
+try now : https://colab.research.google.com/drive/14_zF9enZqbZCeUm4AKm2np5XDWzkDp0A#scrollTo=pkiH7e7fDkXr
